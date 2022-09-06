@@ -1,3 +1,10 @@
+.App-rect {
+    height: 100px;
+    width: 200px;
+    background-color: red;
+    margin: auto;
+}
+
 .App {
     text-align: center;
 }
