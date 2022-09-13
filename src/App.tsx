@@ -5,10 +5,10 @@ import "./App.css";
 function App(): JSX.Element {
     return (
         <div className="App">
-            <header className="App-header" style={{ background: "#1B41DC" }}>
+            <header className="App-header">
                 UD CISC275 with React Hooks and TypeScript
             </header>
-            <header>New Header</header>
+            <h1>New Header</h1>
             <p>
                 Edit <code>src/App.tsx</code> and save. This page will
                 automatically reload. Editor: Yuqing Pan Hello World
