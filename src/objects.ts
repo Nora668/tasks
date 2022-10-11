@@ -1,4 +1,3 @@
-import { transpileModule } from "typescript";
 import { Question, QuestionType } from "./interfaces/question";
 
 /**
